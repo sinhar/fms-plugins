@@ -1,0 +1,17 @@
+{
+  "id": "com.vmware.plugin.predemo",
+  "name": "pre_demo_plugin",
+  "description": "This is a Pre-Demo Plugin Bundle",
+  "version": "1.0.0",
+  "services": [
+    {
+      "name": "predemo",
+      "displayName": "Pre Demo Plugin",
+      "schema": "schema/pre_demo_schema.json",
+      "serviceTarget": "scripts/pre_demo.js",
+      "serviceRuntime": "JAVASCRIPT"
+    }
+  ],
+  "documentation": "https://wiki.vmware.com/plugin/predemo/1.0.0",
+  "author": "VMware Inc."
+}

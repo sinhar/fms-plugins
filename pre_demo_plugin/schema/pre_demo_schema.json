@@ -1,0 +1,27 @@
+{
+    "inputProperties": 
+    [
+        {
+            "name": "messagePart1",
+            "type": "String"
+        },
+
+        {
+            "name": "messagePart2",
+            "type": "String"
+        },
+
+        {
+            "name": "messagePart3",
+            "type": "String"
+        }
+    ],
+
+    "outputProperties": 
+    [
+        {
+            "name": "finalMessage",
+            "type": "String"
+        }
+    ]
+}
